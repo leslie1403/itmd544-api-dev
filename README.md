@@ -81,7 +81,7 @@ The .env file should not be pushed to GitHub.
 ## Local Setup Instructions
 1. Clone the repository using the link provided above
 2. Move into the project folder.
-3. cd itmd544-api-dev-assignment
+3. cd itmd544-api-dev
 4. Install dependencies.
 5. npm install
 6. Create the .env file using the environment variable example above. Start the development server.
